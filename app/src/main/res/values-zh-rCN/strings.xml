@@ -3,4 +3,5 @@
     <string name="app_name">Github 测试</string>
     <string name="action_settings">设置</string>
     <string name="tips">无消息</string>
+    <string name="show">你好 世界！</string>
 </resources>
